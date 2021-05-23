@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notes-app-react/static/css/main.e35954a9.chunk.css",
+    "main.js": "/Notes-app-react/static/js/main.425512be.chunk.js",
+    "main.js.map": "/Notes-app-react/static/js/main.425512be.chunk.js.map",
+    "runtime-main.js": "/Notes-app-react/static/js/runtime-main.d1d00dd7.js",
+    "runtime-main.js.map": "/Notes-app-react/static/js/runtime-main.d1d00dd7.js.map",
+    "static/js/2.22b6d6b3.chunk.js": "/Notes-app-react/static/js/2.22b6d6b3.chunk.js",
+    "static/js/2.22b6d6b3.chunk.js.map": "/Notes-app-react/static/js/2.22b6d6b3.chunk.js.map",
+    "index.html": "/Notes-app-react/index.html",
+    "precache-manifest.09e935be2cbca2a6cc1d377e6b8fc87b.js": "/Notes-app-react/precache-manifest.09e935be2cbca2a6cc1d377e6b8fc87b.js",
+    "service-worker.js": "/Notes-app-react/service-worker.js",
+    "static/css/main.e35954a9.chunk.css.map": "/Notes-app-react/static/css/main.e35954a9.chunk.css.map",
+    "static/js/2.22b6d6b3.chunk.js.LICENSE.txt": "/Notes-app-react/static/js/2.22b6d6b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d00dd7.js",
+    "static/js/2.22b6d6b3.chunk.js",
+    "static/css/main.e35954a9.chunk.css",
+    "static/js/main.425512be.chunk.js"
+  ]
+}
